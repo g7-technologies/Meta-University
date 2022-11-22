@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbe85213f938cF75F495f26f4bC9da4665421406C",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x689FADA81dB32b063cCCD44BF74F6B352ce3bf97",
+  "NETWORK": {
+    "NAME": "Eth",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "SuperSoldiersNFT",
+  "SYMBOL": "SSN",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false
+}

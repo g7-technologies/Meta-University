@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #ffffff;
+  background-color: black;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* particle js css */
+#particles-js{
+	background: transparent;	
+	background-size: cover;
+	position: fixed;
+	top: 0;
+	left: 0;
+  height:100%;
+  width:100%;
+  z-index: -545454548484;
+}
